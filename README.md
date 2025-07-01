@@ -19,3 +19,6 @@ OR
 if you're using bunny (or its worse derivatives (revenge ahem ahem) use the json):
 
 `https://cdn.jsdelivr.net/gh/emuhcs/ginto/ginto.json`
+
+
+~i would of pushed this update myself but then i would get killed and that would be bad i think~
