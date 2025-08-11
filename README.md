@@ -7,7 +7,7 @@ replaces discord's gg-sans library with ginto.
 
 settings > themes > paste in the 'theme links' textbox
 
-<span style="font-size:0.6em;color:gray;">shoutout to vencord for removing a perfectly ok 'feature" because of ""security reasons"" mfw just dont install anything fishy</span> 
+<sub>shoutout to vencord for removing a perfectly ok 'feature" because of ""security reasons"" mfw just dont install anything fishy</sub> 
 
 **OR**
 
