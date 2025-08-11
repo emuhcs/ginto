@@ -1,24 +1,28 @@
-![](/src/img/Discrod-Logo-Blurple.svg)
-## ginto
+![im crodding it](/src/img/crod.svg)
 
-#### replaces discord's gg-sans library with ginto.
+# crod
+replaces discord's gg-sans library with ginto.
 
+## install
 
 settings > themes > paste in the 'theme links' textbox
 
-`https://cdn.jsdelivr.net/gh/emuhcs/ginto/src.css`
+<span style="font-size:0.6em;color:gray;">shoutout to vencord for removing a perfectly ok 'feature" because of ""security reasons"" mfw just dont install anything fishy</span> 
 
-OR
+**OR**
+
+settings > themes > online themes > paste in the themes textbox:
+
+`https://cdn.jsdelivr.net/gh/nephurite/crod/src.css`
+
+**OR**
 
 ```css
-@import url(https://cdn.jsdelivr.net/gh/emuhcs/ginto/src.css);
+@import url(https://cdn.jsdelivr.net/gh/nephurite/crod/src.css);
 ```
 
-OR
+**OR**
 
-if you're using bunny (or its worse derivatives (revenge ahem ahem) use the json):
+If you're using a mobile client (if any still exist and didnt get absorbed by nuclear cesspit known as unbound), use this link in the 'fonts' section in settings:
 
-`https://cdn.jsdelivr.net/gh/emuhcs/ginto/ginto.json`
-
-
-~i would of pushed this update myself but then i would get killed and that would be bad i think~
+`https://cdn.jsdelivr.net/gh/nephurite/crod/ginto.json`
